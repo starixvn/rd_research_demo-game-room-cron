@@ -1,0 +1,11 @@
+.DS_Store
+**/node_modules
+**/build/
+
+.idea
+**/coverage
+**/reports
+
+junit.xml
+
+**/database/data

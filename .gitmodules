@@ -1,0 +1,3 @@
+[submodule "types"]
+	path = types
+	url = ../../sc-packages/sc-game-base-type.git
